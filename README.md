@@ -1,5 +1,6 @@
-### Date created : 18-06-2020
-Include the date you created this project and README file.
+### Date created : 18-06-2020 (of bikeshare.py)
+20-06-2020 readme date
+
 
 ### Project Title
 Replace the Project Title
