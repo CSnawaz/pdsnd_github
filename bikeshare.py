@@ -1,9 +1,9 @@
-from datetime import timedelta
+
 import time
 import pandas as pd
 import numpy as np
 import click
-
+from datetime import timedelta
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -315,7 +315,6 @@ def main():
         restart = choice('\nWould you like to restart? Enter [y]yes or [n]no.\n')
         if restart.lower() != 'y':
             break
-
 
 if __name__ == "__main__":
 	main()
